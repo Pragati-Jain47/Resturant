@@ -29,3 +29,4 @@ The objective of SmartDine is to reduce manual restaurant operations and provide
 ## Author
 Pragati Jain
 Updated by Palak
+Contributed by Lakshita113
